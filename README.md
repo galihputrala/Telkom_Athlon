@@ -1,1 +1,1 @@
-# Week1
+Telkom atlhon directory. A journey into best data scientist
